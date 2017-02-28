@@ -1,0 +1,16 @@
+{
+  "name": "boost-regex",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-predef": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-smart-ptr": "1.63.0",
+    "boost-core": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-type-traits": "1.63.0",
+    "boost-integer": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-functional": "1.63.0"
+  }
+}
