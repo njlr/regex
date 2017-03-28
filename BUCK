@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 cxx_library(
-  name = 'boost-regex', 
+  name = 'regex', 
   header_namespace = 'boost',
   exported_headers = subdir_glob([
     ('include/boost', '**/*.hpp'),
